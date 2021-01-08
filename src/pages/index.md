@@ -22,7 +22,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Lĩnh vực hoạt động
     subtitle: Những lĩnh vực và công việc tôi đang theo đuổi
     projects_number: 6
