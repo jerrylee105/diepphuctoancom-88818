@@ -24,7 +24,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Lĩnh vực hoạt động
-    subtitle: An optional subtitle of the section
+    subtitle: Những lĩnh vực và công việc tôi đang theo đuổi
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
