@@ -6,8 +6,16 @@ sections:
     type: section_hero
     title: 'Xin chào, tôi là DIỆP PHÚC TOÀN'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hiện tại tôi đang sống tại TP.HCM và một trong những Founder và
+      Storyteller của tổ chức giáo dục phi lợi nhuận** HUMI EDU**.
+
+
+      Là một người say mê và đắm mình trong lĩnh vực giáo dục, đào tạo & khai
+      vấn. Suốt 8 năm theo đuổi lĩnh vực này, tôi luôn đi tìm lời giải đáp cho
+      câu hỏi: Làm thế nào để các bạn trẻ có thể phát triển cân bằng và hạnh
+      phúc (trước tất cả những hỗn độn mà thời đại mang đến)? Chính vì vậy mà cả
+      cuộc đời tôi theo đuổi sứ mệnh “**xây dựng một môi trường giáo dục tử tế
+      và lành mạnh cho các bạn trẻ ở Việt Nam**”.
     actions:
       - label: Let's talk
         url: /contact
