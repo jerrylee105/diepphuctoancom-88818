@@ -82,4 +82,5 @@ sections:
         url: blog
         style: button
 template: advanced
+excerpt: Cái này là cái gì?
 ---
