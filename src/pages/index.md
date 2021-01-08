@@ -17,7 +17,7 @@ sections:
       cuộc đời tôi theo đuổi sứ mệnh “**xây dựng một môi trường giáo dục tử tế
       và lành mạnh cho các bạn trẻ ở Việt Nam**”.
     actions:
-      - label: Kết nối cùng Toàn
+      - label: Kết nối với Toàn
         url: /contact
         style: button
   - section_id: latest-projects
